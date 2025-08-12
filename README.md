@@ -1,9 +1,9 @@
 # Hola, soy Kino González 👋
 
-Soy rofesional de [tu área] con interés en:
+Soy rofesional de informatica especializandome en ciberseguridad un campo en evolucion diaria:
 
 - 🚀 Desarrollo web / RedTeam / IoT / Seguridad / automatizaciones
-- 📚 Aprendiendo sobre ciberseguridad
+- 📚 Aprendiendo sobre ciberseguridad  , actualmente preparandome el CRTA 
 - 💡 Me gusta crear proyectos sobre que nos hagan la vida mas facil y darle usos  a la tecnologia para los que no estan pensadas 
 
 ## Mis habilidades
@@ -15,6 +15,11 @@ Soy rofesional de [tu área] con interés en:
 ## Proyectos destacados
 
 En construccion
+
+### 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 
 ## Contáctame
 
