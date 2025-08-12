@@ -14,9 +14,9 @@ Soy profesional de informatica especializandome en ciberseguridad un campo en ev
 
 ## Proyectos destacados
 
-- Pagina web personal:  [patagoniabits.com](patagoniabits.com)
-- Sistema de turnos para clinicas ,hostpitales , centros de estica , etc.. :  [patagoniabits.com](turnos.patagoniabits.com)
-- Creacion de invitaciones virtuales para distintos acontecimientos:  [[patagoniabits.com](patagoniabits.com/p0987)
+- Pagina web personal:  [patagoniabits.com](https://patagoniabits.com)
+- Sistema de turnos para clinicas ,hostpitales , centros de estica , etc.. :  [patagoniabits.com](https://turnos.patagoniabits.com)
+- Creacion de invitaciones virtuales para distintos acontecimientos:  [[patagoniabits.com](https://patagoniabits.com/p0987)
 - Timbres virtuales por software haciendo uso de falsk  y telegram 
 
 ### 📊 Estadísticas de GitHub
@@ -27,8 +27,7 @@ Soy profesional de informatica especializandome en ciberseguridad un campo en ev
 ## Contáctame
 
 - Twitter: [@firstatack](https://twitter.com/firstatack)
-- LinkedIn: [tu perfil](https://linkedin.com/in/tu_usuario)
-- Email: tu.email@example.com
+- LinkedIn: En breve
 
 ---
 
