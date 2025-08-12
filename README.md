@@ -42,7 +42,7 @@ Soy profesional de informatica especializandome en ciberseguridad un campo en ev
 
 <p align="center">
   <a href="https://t.me/firstatack" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="30" height="30" style="margin-right:10px"/>
+     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30" style="margin-right:10px"/>
   </a>
   <a href="https://twitter.com/firstatack" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30" style="margin-right:10px"/>
