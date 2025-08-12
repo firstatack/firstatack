@@ -34,13 +34,15 @@ Soy profesional de informatica especializandome en ciberseguridad un campo en ev
 
 ## 🏅 Certificaciones y cursos
 
-[![Introduccion de ciberseguridad cisco](https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/652e759a-8d30-448d-980c-dfd5a86d9fcc)
+<p align="center">
+  [![Introduccion de ciberseguridad cisco](https://images.credly.com/size/170x170/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/652e759a-8d30-448d-980c-dfd5a86d9fcc)
+  [![Ethical hacker de cisco](https://images.credly.com/size/170x170/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/a75b6435-bf08-46c2-8625-41e5108e5cda)
+</p>
 
-[![Ethical hacker de cisco](https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](https://www.credly.com/badges/a75b6435-bf08-46c2-8625-41e5108e5cda)
-
-[![Cybersecurity Awareness Learner 2025](https://images.credly.com/size/340x340/images/5a388f8e-891a-48dc-9c01-dfa04ced241a/blob)](https://www.credly.com/badges/5ff18dce-b895-466f-a2db-1aeca2f1c8d7)
-
-
+<p align="center">
+  [![Cybersecurity Awareness Learner 2025](https://images.credly.com/size/170x170/images/5a388f8e-891a-48dc-9c01-dfa04ced241a/blob)](https://www.credly.com/badges/5ff18dce-b895-466f-a2db-1aeca2f1c8d7)
+  [![Pfsense:Instalacion y configuracion](https://udemy-certificate.s3.amazonaws.com/image/UC-7ae4b90b-3009-448b-b362-47bf6522f873.jpg?v=1748960955000)](https://www.udemy.com/certificate/UC-7ae4b90b-3009-448b-b362-47bf6522f873/)
+</p>
 
 ## 📊 Estadísticas de GitHub
 
