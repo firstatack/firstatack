@@ -32,7 +32,7 @@ Soy profesional de informatica especializandome en ciberseguridad un campo en ev
 - Creacion de invitaciones virtuales para distintos acontecimientos: [patagoniabits.com](https://patagoniabits.com/p0987)
 - Timbres virtuales por software haciendo uso de flask  y telegram 
 
-### 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=firstatack&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
