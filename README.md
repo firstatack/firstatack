@@ -8,7 +8,7 @@ Soy profesional de informatica especializandome en ciberseguridad un campo en ev
 
 ## Mis habilidades
 
-- Lenguajes: Python, bash, etc.
+- Lenguajes: Python, bash,  etc.
 - Frameworks:  Flask, etc.
 - Herramientas: Git, Docker, Linux, etc.
 
@@ -16,8 +16,8 @@ Soy profesional de informatica especializandome en ciberseguridad un campo en ev
 
 - Pagina web personal:  [patagoniabits.com](https://patagoniabits.com)
 - Sistema de turnos para clinicas ,hostpitales , centros de estica , etc.. :  [patagoniabits.com](https://turnos.patagoniabits.com)
-- Creacion de invitaciones virtuales para distintos acontecimientos:  [[patagoniabits.com](https://patagoniabits.com/p0987)
-- Timbres virtuales por software haciendo uso de falsk  y telegram 
+- Creacion de invitaciones virtuales para distintos acontecimientos: [patagoniabits.com](https://patagoniabits.com/p0987)
+- Timbres virtuales por software haciendo uso de flask  y telegram 
 
 ### 📊 Estadísticas de GitHub
 
