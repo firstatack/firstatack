@@ -1,6 +1,6 @@
 # Hola, soy Kino González 👋
 
-Soy rofesional de informatica especializandome en ciberseguridad un campo en evolucion diaria:
+Soy profesional de informatica especializandome en ciberseguridad un campo en evolucion diaria:
 
 - 🚀 Desarrollo web / RedTeam / IoT / Seguridad / automatizaciones
 - 📚 Aprendiendo sobre ciberseguridad  , actualmente preparandome el CRTA 
@@ -14,7 +14,10 @@ Soy rofesional de informatica especializandome en ciberseguridad un campo en evo
 
 ## Proyectos destacados
 
-En construccion
+- Pagina web personal:  [patagoniabits.com](patagoniabits.com)
+- Sistema de turnos para clinicas ,hostpitales , centros de estica , etc.. :  [patagoniabits.com](turnos.patagoniabits.com)
+- Creacion de invitaciones virtuales para distintos acontecimientos:  [[patagoniabits.com](patagoniabits.com/p0987)
+- Timbres virtuales por software haciendo uso de falsk  y telegram 
 
 ### 📊 Estadísticas de GitHub
 
